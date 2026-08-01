@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Ryuu 👋🏼
 
-<!--
-**Ryuu-exe/Ryuu-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's where curiosity slowly becomes reality.
 
-Here are some ideas to get you started:
+Every repository here carries a little piece of who I was when I created it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some are tiny.
+Some are unfinished.
+Some have bugs.
+
+Without them...
+the next creation could never have existed.
+
+You arrived at a collection of questions I've been curious enough to answer.
+
+Some became projects.
+
+Some became experiments.
+
+Some are still waiting to be discovered.
+
+Thank you for stopping by.
+
+If something here inspires an idea in you,
+then we've created something together.
+
+Welcome to my workshop.❤️
